@@ -1,4 +1,4 @@
-
+[![Build Status](https://ausgovsp.visualstudio.com/AL/_apis/build/status/AnthonyLiva.pipelines-java?branchName=master)](https://ausgovsp.visualstudio.com/AL/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
